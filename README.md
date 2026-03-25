@@ -14,7 +14,7 @@ A simple, fun photo gallery web project inspired by Pinterest. Built for practic
 * Lightbox view on click
 
 **Usage**
-[Open Live Demo](https://rawnak-thmd.github.io/memories/)
+[Open Live Demo](https://rawmid.github.io/memories/)
 
 **Tech**
 HTML, CSS, JavaScript
